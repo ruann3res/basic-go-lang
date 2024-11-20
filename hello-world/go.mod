@@ -1,3 +1,3 @@
-module module-01
+module hello-world
 
 go 1.23.3
