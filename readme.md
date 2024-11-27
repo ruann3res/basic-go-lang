@@ -33,3 +33,4 @@ func main() {
 5. [Funções](functions/functions.md)
 6. [Arrays](arrays/arrays.md)
 7. [Loops](loops/loops.md)
+8. [Conditionals](conditionals/conditionals.md)
