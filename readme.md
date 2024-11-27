@@ -34,3 +34,4 @@ func main() {
 6. [Arrays](arrays/arrays.md)
 7. [Loops](loops/loops.md)
 8. [Conditionals](conditionals/conditionals.md)
+9. [Switch](switch/switch.md)
