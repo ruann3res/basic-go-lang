@@ -14,4 +14,8 @@ func main() {
 	const arrSize = 15
 	arr3 := [arrSize]int{5: 400}
 	fmt.Println(arr3) // [0 0 0 0 0 400 0 0 0 0 0 0 0 0 0]
+
+	for i, v := range arr3 {
+		fmt.Println(i, v)
+	}
 }
